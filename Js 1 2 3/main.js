@@ -72,29 +72,3 @@ while (entrada != "ESC");
  */
 
 
-/* DESAFIO NRO 3 */
-/* let entrada = prompt ("Ingresa un nombre");
-
-while (entrada != "esc") {
-    switch (entrada) {
-        case "Ana":
-            alert ("Hola Ana");
-            break;
-        case "Juan":
-            alert ("Hola Juan");
-            break;
-        default:
-            alert ("Quién sos?");
-            break;
-    }
-    entrada = prompt ("Ingresa un nombre");
-    console.log(entrada);
-}
-
-for (let i = 1; i <= 10; i++) {
-    if (i == 5) {
-        continue;
-    }
-
-    console.log(i);
-} */
