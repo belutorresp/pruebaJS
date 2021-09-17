@@ -1,15 +1,15 @@
 // DESAFIO NRO 1 //
-/* let nombre = prompt ('Ingrese su nombre');
+
+let nombre = prompt ('Ingrese su nombre');
 alert(nombre);
 
-let edad = prompt('Ingrese su edad');
-let pasarValor = parseInt(edad);
+let edad = parseInt (prompt('Ingrese su edad'));
 let numero = 50;
 
 let resultado = edad + numero;
 
 alert('Hola' + ' ' + nombre + ' ' + 'tu edad en 50 años será');
-alert(pasarValor + numero) */
+alert(edad + numero)
 
 
 
